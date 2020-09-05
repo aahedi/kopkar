@@ -1,6 +1,6 @@
 var versi = "1";
-var url = "https://pesanyok.web.id/app/";
-var url_admin = "https://pesanyok.web.id/";
+var url = "https://kopkartaspen.com/app/";
+var url_admin = "https://kopkartaspen.com/";
 var api_ongkir = "https://ongkir.tokojs.com/api_ongkir/";
 
 var token='6KB4J3xGZX';
