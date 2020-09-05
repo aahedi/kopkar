@@ -4,7 +4,7 @@ var url_admin = "https://kopkartaspen.com/";
 var api_ongkir = "https://ongkir.tokojs.com/api_ongkir/";
 
 var token='6KB4J3xGZX';
-var nama_aplikasi='PesanYok';
+var nama_aplikasi='Kopkar Taspen';
 var id_pelanggan=localStorage.getItem('id_pelanggan');
 
 var ua = navigator.userAgent.toLowerCase();
